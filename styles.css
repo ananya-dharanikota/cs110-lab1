@@ -25,9 +25,12 @@
     width: 500px;
     height: auto;
     border-radius: 8px;    
-    /* box-shadow: 2px 2px 5px gray; */
-    /* padding-left: 30%;
-    padding-right: 10%; */
+    /* justify-content: center; */
+    padding-left: 45%;
+}
+
+.text-adjustment {
+    text-align: center;
 }
 
 .title-name{
