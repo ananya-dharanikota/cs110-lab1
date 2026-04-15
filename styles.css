@@ -54,3 +54,11 @@
     height: 100%;
   }
   
+@keyframes mymove {
+    50% {font-size: 40px;}
+}
+
+.text-animation {
+    animation: mymove 5s infinite;
+}
+  
