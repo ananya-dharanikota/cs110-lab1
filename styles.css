@@ -11,6 +11,15 @@
     display: flex;
 }
 
+.body-adjustment {
+    background-color: mistyrose;
+}
+
+.text-adjustment {
+
+}
+
+
 .image-adjustment {
     width: 48px;         
     height: auto;          
@@ -30,7 +39,8 @@
 }
 
 .text-adjustment {
-    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:blueviolet;
 }
 
 .title-name{
